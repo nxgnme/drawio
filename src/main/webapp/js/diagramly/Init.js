@@ -1,6 +1,6 @@
 /**
  * Copyright (c) 2006-2020, JGraph Ltd
- * Copyright (c) 2006-2020, draw.io AG
+ * Copyright (c) 2006-2020, draw.io AGgggg
  */
 
 // urlParams is null when used for embedding
