@@ -1,5 +1,10 @@
 [![Build Status](https://travis-ci.com/jgraph/drawio.svg?branch=master)](https://travis-ci.com/jgraph/drawio)
 
+@startuml
+Bob -> Alice : hello
+@enduml
+
+
 About xx ff gg
 -----
 [diagrams.net](https://app.diagrams.net), [previously draw.io](https://www.diagrams.net/blog/move-diagrams-net), is an online diagramming web site that delivers the source in this project.
